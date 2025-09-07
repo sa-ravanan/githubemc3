@@ -1,1 +1,2 @@
 This is dummy file
+This dummy file is being edited in GitHub
